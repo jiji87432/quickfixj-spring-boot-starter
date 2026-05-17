@@ -72,7 +72,7 @@ and add the specific version(s) of the FIX messages you need in your project `de
 
 === Breaking changes with previous versions
 
-==== 4.x.x => 5.0.0
+==== 4.2.x => 4.3.x
 
 There is no API break but the code cannot run with old version of QuickfixJ.
 
